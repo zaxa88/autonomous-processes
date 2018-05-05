@@ -353,7 +353,7 @@ bot.on('message',function(message) {
 //        message.channel.send(message.author.username + ', if you are asking for tools to help with trading, simply type !links or !l and I will DM the info to you. You can always type !help for a list of commands.');
 //        console.log(formatted + ' > ' + message.author.username + ' wrote: ' + command + ' ' + msgBody);
 //    }
-//    if(phraseString.indexOf('Roger Ver') > -1) {
+//    if(phraseString.indexOf('Ver') > -1) {
 //        message.channel.send(message.author.username + ', You kiss your momma with that mouth? Please keep it clean. Thanks.');
 //        console.log(formatted + ' > ' + message.author.username + ' wrote: ' + command + ' ' + msgBody);
 //    }
